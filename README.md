@@ -1,5 +1,7 @@
 Mandarake Item Notifier
 
+![alert](https://github.com/Mxarki/Mandarake-Notifier/assets/78881074/21d00084-beed-4d25-95aa-28d75ca81cfc)
+
 This Python script monitors Mandarake's website for new items and sends notifications to Discord channels using webhooks.
 Requirements
 
@@ -34,6 +36,9 @@ python mandarake_notifier.py
 Usage
 
 The script will continuously monitor the specified URLs for new items and send notifications to the specified Discord channel using webhooks. The script will log its actions to the console and to the log webhook.
+
+![console](https://github.com/Mxarki/Mandarake-Notifier/assets/78881074/1abcc8de-495d-423a-a8ed-6eac567396e6)
+
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
