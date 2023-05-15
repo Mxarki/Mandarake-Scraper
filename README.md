@@ -17,7 +17,7 @@ Requirements
 
 Installation
     
-    Clone or download the latest release version!!!.
+    Download the latest release version!!!.
     Install the required modules using pip.
 
 pip install configparser requests bs4 lxml
