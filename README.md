@@ -29,9 +29,8 @@ pip install configparser requests bs4 lxml
         Set the URLs for the log and alert webhooks in the Discord section.
         Set the Discord role ID to mention in the Discord section.
         Set the desired language for the webhook message in the Discord section.
-    Run the script using the following command:
+    Run the script using the given .bat file or open mand.py in console
 
-python mandarake_notifier.py
 
 Usage
 
