@@ -1,4 +1,5 @@
 Mandarake Item Notifier
+Created by Markie#2653
 
 ![alert](https://github.com/Mxarki/Mandarake-Notifier/assets/78881074/21d00084-beed-4d25-95aa-28d75ca81cfc)
 
@@ -17,7 +18,7 @@ Requirements
 
 Installation
     
-    Download the latest release version!!!.
+    Download the latest release version!!!
     Install the required modules using pip.
 
 pip install configparser requests bs4 lxml
